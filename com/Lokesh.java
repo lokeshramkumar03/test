@@ -1,5 +1,6 @@
 class Lokesh {
     public static void main(String[] args) {
-        System.out.println("Lokesh");
+
+        System.out.println("Learn java");
     }
 }
